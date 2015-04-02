@@ -1,0 +1,120 @@
+.glava {
+    text-align: right;
+}
+ 
+.glava a {
+    padding-right: 10px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+ 
+.slika {
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+ 
+.slo {
+    position: relative;
+    font-size: 18px;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    color: dimgrey; 
+    left: 220px;
+    top: -30px;
+}
+ 
+#tipkovnica {
+    margin: -30px 0px 0px 457px;
+    position: absolute;
+}
+ 
+.iskalnik {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+#iskalnik2 {
+    width: 500px;
+    height: 20px;
+    margin-top: 10px;
+}
+ 
+.skritatipka {
+    width:400px;
+    height:250px;
+    margin: 50px 0 0 360px;
+    display: none;
+    position:absolute;
+}
+ 
+#tipke:hover .skritatipka {
+    display: block;
+}
+ 
+#iskanje {
+    color: #444;
+    border-radius: 2px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: #F5F5F5;
+    font-family: arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 0px;
+    width: 110px;
+    position: absolute;
+    margin: 20px 8px 0px 110px;
+}
+ 
+#iskanje2 {
+    color: #444;
+    border-radius: 2px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: #F5F5F5;
+    font-family: arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 0px;
+    width: 110px;
+    position: absolute;
+    margin: 20px 8px 0px 250px;
+}
+ 
+.noga {
+    border-top: 1px solid #e4e4e4;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 50px;
+    margin-left: -7px;
+    background-color: #f2f2f2;
+    color: #555556;
+    font-family: arial, sans-serif;
+    font-size: small;
+}
+ 
+.levo {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+ 
+.desno {
+    margin-top: -20px;
+    margin-right: 15px;
+    float: right;
+}
+ 
+.piskotki {
+    text-align: left;
+    margin-left: 10px;
+}
+
